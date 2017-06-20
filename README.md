@@ -6,7 +6,7 @@
 
 ### Structure
 
-`release2/
+```release2/ \
   Data-points-processed/
    1/
     bag_name/
@@ -20,7 +20,7 @@
    test/
     ...
   release3/
-`
+```
 
 ### Considerations
 
