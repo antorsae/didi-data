@@ -21,7 +21,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.682440</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -39,7 +39,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.682568</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -57,7 +57,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.683694</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -75,7 +75,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.685048</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -93,7 +93,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.683225</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -111,7 +111,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.678672</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -129,7 +129,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.677891</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -165,7 +165,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.686912</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -183,7 +183,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.688250</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -201,7 +201,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.690249</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -219,7 +219,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.694450</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -237,7 +237,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.697581</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -309,7 +309,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.711470</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -327,7 +327,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714226</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -345,7 +345,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.722900</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -381,7 +381,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.720259</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -399,7 +399,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.715602</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -417,7 +417,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714906</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -435,7 +435,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.718089</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -453,7 +453,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.721177</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -471,7 +471,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.717551</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -489,7 +489,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.721237</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -507,7 +507,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.721569</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -543,7 +543,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.722577</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -561,7 +561,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.724784</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -579,7 +579,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.728016</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -597,7 +597,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.706537</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -615,7 +615,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.700728</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -633,7 +633,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.717107</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -651,7 +651,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.736248</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -1551,7 +1551,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714423</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -1569,7 +1569,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714683</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -1641,7 +1641,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714089</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -1677,7 +1677,7 @@
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
 				<rz>1.714632</rz>
-				<state>1</state>
+				<state>0</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
