@@ -6,9 +6,9 @@
 	<item_version>1</item_version> 
 	<item class_id="1" tracking_level="0" version="1">
 		<objectType>Car</objectType>
-		<h>1.574800</h>
-		<w>1.447800</w>
-		<l>4.241800</l>
+		<h>1.68</h>
+		<w>1.8997</w>
+		<l>4.66</l>
 		<first_frame>0</first_frame>
 		<poses class_id="2" tracking_level="0" version="0">
 			<count>234</count>

@@ -6,21 +6,21 @@
 	<item_version>1</item_version> 
 	<item class_id="1" tracking_level="0" version="1">
 		<objectType>Car</objectType>
-		<h>1.574800</h>
-		<w>1.447800</w>
-		<l>4.241800</l>
+		<h>1.68</h>
+		<w>1.8997</w>
+		<l>4.66</l>
 		<first_frame>0</first_frame>
 		<poses class_id="2" tracking_level="0" version="0">
-			<count>83</count>
+			<count>118</count>
 			<item_version>2</item_version>
 			<!-- frame 0 -->
 			<item class_id="3" tracking_level="0" version="2">
-				<tx>52.929339</tx>
-				<ty>8.056167</ty>
-				<tz>-1.709762</tz>
+				<tx>8.867195</tx>
+				<ty>-0.557967</ty>
+				<tz>-1.025790</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.062521</rz>
+				<rz>0.127146</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -33,12 +33,12 @@
 			</item>
 			<!-- frame 1 -->
 			<item>
-				<tx>52.931109</tx>
-				<ty>8.037118</ty>
-				<tz>-1.708929</tz>
+				<tx>8.908003</tx>
+				<ty>-0.570011</ty>
+				<tz>-1.031077</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.062875</rz>
+				<rz>0.127038</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -51,12 +51,12 @@
 			</item>
 			<!-- frame 2 -->
 			<item>
-				<tx>52.823689</tx>
-				<ty>7.874459</ty>
-				<tz>-1.775690</tz>
+				<tx>8.944117</tx>
+				<ty>-0.548385</ty>
+				<tz>-1.031907</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.065836</rz>
+				<rz>0.126715</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -69,12 +69,12 @@
 			</item>
 			<!-- frame 3 -->
 			<item>
-				<tx>52.686820</tx>
-				<ty>7.732395</ty>
-				<tz>-1.768812</tz>
+				<tx>8.960025</tx>
+				<ty>-0.560629</ty>
+				<tz>-1.029346</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.068386</rz>
+				<rz>0.127145</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -87,12 +87,12 @@
 			</item>
 			<!-- frame 4 -->
 			<item>
-				<tx>52.546765</tx>
-				<ty>7.485916</ty>
-				<tz>-1.690375</tz>
+				<tx>8.986253</tx>
+				<ty>-0.555669</ty>
+				<tz>-1.034383</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.072805</rz>
+				<rz>0.127145</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -105,12 +105,12 @@
 			</item>
 			<!-- frame 5 -->
 			<item>
-				<tx>52.385724</tx>
-				<ty>7.247914</ty>
-				<tz>-1.757606</tz>
+				<tx>9.024042</tx>
+				<ty>-0.536540</ty>
+				<tz>-1.036888</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.077177</rz>
+				<rz>0.124525</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -123,12 +123,12 @@
 			</item>
 			<!-- frame 6 -->
 			<item>
-				<tx>52.196549</tx>
-				<ty>6.992572</ty>
-				<tz>-1.747534</tz>
+				<tx>9.009953</tx>
+				<ty>-0.564372</ty>
+				<tz>-1.036516</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.081913</rz>
+				<rz>0.124768</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -141,12 +141,12 @@
 			</item>
 			<!-- frame 7 -->
 			<item>
-				<tx>51.942912</tx>
-				<ty>6.943022</ty>
-				<tz>-1.736740</tz>
+				<tx>9.043905</tx>
+				<ty>-0.555937</ty>
+				<tz>-1.037488</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.082821</rz>
+				<rz>0.123863</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -159,12 +159,12 @@
 			</item>
 			<!-- frame 8 -->
 			<item>
-				<tx>51.661594</tx>
-				<ty>6.820332</ty>
-				<tz>-0.665314</tz>
+				<tx>9.034403</tx>
+				<ty>-0.528326</ty>
+				<tz>-1.037570</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.085030</rz>
+				<rz>0.124340</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -177,12 +177,12 @@
 			</item>
 			<!-- frame 9 -->
 			<item>
-				<tx>51.330189</tx>
-				<ty>6.653992</ty>
-				<tz>-1.726278</tz>
+				<tx>9.041860</tx>
+				<ty>-0.542331</ty>
+				<tz>-1.037546</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.087994</rz>
+				<rz>0.125697</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -195,12 +195,12 @@
 			</item>
 			<!-- frame 10 -->
 			<item>
-				<tx>50.948246</tx>
-				<ty>6.580227</ty>
-				<tz>-1.716333</tz>
+				<tx>9.039659</tx>
+				<ty>-0.530408</ty>
+				<tz>-1.036593</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.083661</rz>
+				<rz>0.124556</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -213,12 +213,12 @@
 			</item>
 			<!-- frame 11 -->
 			<item>
-				<tx>50.619457</tx>
-				<ty>6.389485</ty>
-				<tz>-1.705180</tz>
+				<tx>9.036733</tx>
+				<ty>-0.527490</ty>
+				<tz>-1.037064</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.083074</rz>
+				<rz>0.124971</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -231,12 +231,12 @@
 			</item>
 			<!-- frame 12 -->
 			<item>
-				<tx>50.070439</tx>
-				<ty>6.157715</ty>
-				<tz>-1.694199</tz>
+				<tx>9.050941</tx>
+				<ty>-0.539496</ty>
+				<tz>-1.037507</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.061040</rz>
+				<rz>0.124882</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -249,12 +249,12 @@
 			</item>
 			<!-- frame 13 -->
 			<item>
-				<tx>49.576346</tx>
-				<ty>6.003626</ty>
-				<tz>-1.679389</tz>
+				<tx>9.039571</tx>
+				<ty>-0.535955</ty>
+				<tz>-1.037704</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.070766</rz>
+				<rz>0.124514</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -267,12 +267,12 @@
 			</item>
 			<!-- frame 14 -->
 			<item>
-				<tx>49.167898</tx>
-				<ty>5.785752</ty>
-				<tz>-1.668328</tz>
+				<tx>9.042208</tx>
+				<ty>-0.527703</ty>
+				<tz>-1.037195</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.067718</rz>
+				<rz>0.124947</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -285,12 +285,12 @@
 			</item>
 			<!-- frame 15 -->
 			<item>
-				<tx>48.468720</tx>
-				<ty>5.687489</ty>
-				<tz>-1.640526</tz>
+				<tx>9.040043</tx>
+				<ty>-0.551483</ty>
+				<tz>-1.037049</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.080462</rz>
+				<rz>0.124293</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -303,12 +303,12 @@
 			</item>
 			<!-- frame 16 -->
 			<item>
-				<tx>47.869489</tx>
-				<ty>5.445984</ty>
-				<tz>-1.616414</tz>
+				<tx>9.030678</tx>
+				<ty>-0.542252</ty>
+				<tz>-1.037141</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.096841</rz>
+				<rz>0.123992</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -321,12 +321,12 @@
 			</item>
 			<!-- frame 17 -->
 			<item>
-				<tx>47.244918</tx>
-				<ty>5.204529</ty>
-				<tz>-1.592436</tz>
+				<tx>9.034315</tx>
+				<ty>-0.554653</ty>
+				<tz>-1.035593</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.113923</rz>
+				<rz>0.124559</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -339,12 +339,12 @@
 			</item>
 			<!-- frame 18 -->
 			<item>
-				<tx>46.557175</tx>
-				<ty>5.055549</ty>
-				<tz>-1.421627</tz>
+				<tx>9.030105</tx>
+				<ty>-0.529458</ty>
+				<tz>-1.037486</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.129143</rz>
+				<rz>0.124836</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -357,12 +357,12 @@
 			</item>
 			<!-- frame 19 -->
 			<item>
-				<tx>45.852655</tx>
-				<ty>4.744009</ty>
-				<tz>-1.554472</tz>
+				<tx>9.050131</tx>
+				<ty>-0.551594</ty>
+				<tz>-1.037968</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.128653</rz>
+				<rz>0.124444</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -375,12 +375,12 @@
 			</item>
 			<!-- frame 20 -->
 			<item>
-				<tx>45.113585</tx>
-				<ty>4.523933</ty>
-				<tz>-1.528691</tz>
+				<tx>9.036755</tx>
+				<ty>-0.539632</ty>
+				<tz>-1.037216</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.117280</rz>
+				<rz>0.124524</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -393,12 +393,12 @@
 			</item>
 			<!-- frame 21 -->
 			<item>
-				<tx>44.543626</tx>
-				<ty>4.405168</ty>
-				<tz>-1.512806</tz>
+				<tx>9.034472</tx>
+				<ty>-0.542553</ty>
+				<tz>-1.037308</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.126684</rz>
+				<rz>0.124888</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -411,12 +411,12 @@
 			</item>
 			<!-- frame 22 -->
 			<item>
-				<tx>43.535711</tx>
-				<ty>4.351719</ty>
-				<tz>-1.248857</tz>
+				<tx>9.042131</tx>
+				<ty>-0.551640</ty>
+				<tz>-1.037537</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.122165</rz>
+				<rz>0.124154</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -429,12 +429,12 @@
 			</item>
 			<!-- frame 23 -->
 			<item>
-				<tx>42.724039</tx>
-				<ty>4.201280</ty>
-				<tz>-1.212030</tz>
+				<tx>9.045840</tx>
+				<ty>-0.548852</ty>
+				<tz>-1.037549</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.119978</rz>
+				<rz>0.123630</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -447,12 +447,12 @@
 			</item>
 			<!-- frame 24 -->
 			<item>
-				<tx>41.883838</tx>
-				<ty>4.110626</ty>
-				<tz>-1.172958</tz>
+				<tx>9.052004</tx>
+				<ty>-0.548712</ty>
+				<tz>-1.038247</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.112724</rz>
+				<rz>0.124933</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -465,12 +465,12 @@
 			</item>
 			<!-- frame 25 -->
 			<item>
-				<tx>41.038217</tx>
-				<ty>3.950354</ty>
-				<tz>-1.135243</tz>
+				<tx>9.045145</tx>
+				<ty>-0.535572</ty>
+				<tz>-1.037914</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.125263</rz>
+				<rz>0.124835</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -483,12 +483,12 @@
 			</item>
 			<!-- frame 26 -->
 			<item>
-				<tx>40.155604</tx>
-				<ty>3.826820</ty>
-				<tz>-1.093958</tz>
+				<tx>9.045396</tx>
+				<ty>-0.533831</ty>
+				<tz>-1.037680</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.134003</rz>
+				<rz>0.124293</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -501,12 +501,12 @@
 			</item>
 			<!-- frame 27 -->
 			<item>
-				<tx>39.263321</tx>
-				<ty>3.763468</ty>
-				<tz>-1.050406</tz>
+				<tx>9.041974</tx>
+				<ty>-0.540613</ty>
+				<tz>-1.037782</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.116051</rz>
+				<rz>0.124276</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -519,12 +519,12 @@
 			</item>
 			<!-- frame 28 -->
 			<item>
-				<tx>38.369881</tx>
-				<ty>3.715569</ty>
-				<tz>-1.327798</tz>
+				<tx>9.048920</tx>
+				<ty>-0.545498</ty>
+				<tz>-1.038193</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.106797</rz>
+				<rz>0.125382</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -537,12 +537,12 @@
 			</item>
 			<!-- frame 29 -->
 			<item>
-				<tx>37.415736</tx>
-				<ty>3.713205</ty>
-				<tz>-1.636215</tz>
+				<tx>9.035817</tx>
+				<ty>-0.551652</ty>
+				<tz>-1.037855</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.114402</rz>
+				<rz>0.124838</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -555,12 +555,12 @@
 			</item>
 			<!-- frame 30 -->
 			<item>
-				<tx>36.737335</tx>
-				<ty>3.600150</ty>
-				<tz>-1.601933</tz>
+				<tx>9.035392</tx>
+				<ty>-0.535339</ty>
+				<tz>-1.037286</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.133313</rz>
+				<rz>0.124562</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -573,12 +573,12 @@
 			</item>
 			<!-- frame 31 -->
 			<item>
-				<tx>36.128917</tx>
-				<ty>2.997782</ty>
-				<tz>-1.603857</tz>
+				<tx>9.041658</tx>
+				<ty>-0.559694</ty>
+				<tz>-1.037478</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.118540</rz>
+				<rz>0.124956</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -591,12 +591,12 @@
 			</item>
 			<!-- frame 32 -->
 			<item>
-				<tx>35.165222</tx>
-				<ty>2.956470</ty>
-				<tz>-1.588522</tz>
+				<tx>9.031590</tx>
+				<ty>-0.554676</ty>
+				<tz>-1.037512</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.104885</rz>
+				<rz>0.124962</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -609,12 +609,12 @@
 			</item>
 			<!-- frame 33 -->
 			<item>
-				<tx>34.151314</tx>
-				<ty>2.873730</ty>
-				<tz>-1.591099</tz>
+				<tx>9.028286</tx>
+				<ty>-0.545309</ty>
+				<tz>-1.035364</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.123655</rz>
+				<rz>0.125072</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -627,13 +627,13 @@
 			</item>
 			<!-- frame 34 -->
 			<item>
-				<tx>33.093990</tx>
-				<ty>2.823278</ty>
-				<tz>-1.577595</tz>
+				<tx>9.053623</tx>
+				<ty>-0.531875</ty>
+				<tz>-1.037708</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.121818</rz>
-				<state>0</state>
+				<rz>0.125508</rz>
+				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -645,12 +645,12 @@
 			</item>
 			<!-- frame 35 -->
 			<item>
-				<tx>32.036666</tx>
-				<ty>2.772826</ty>
-				<tz>-1.564091</tz>
+				<tx>9.035886</tx>
+				<ty>-0.540354</ty>
+				<tz>-1.031277</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.095018</rz>
+				<rz>0.127549</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -663,12 +663,12 @@
 			</item>
 			<!-- frame 36 -->
 			<item>
-				<tx>30.991131</tx>
-				<ty>3.066083</ty>
-				<tz>-1.509427</tz>
+				<tx>9.039380</tx>
+				<ty>-0.536960</ty>
+				<tz>-1.035429</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.098707</rz>
+				<rz>0.127432</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -681,12 +681,12 @@
 			</item>
 			<!-- frame 37 -->
 			<item>
-				<tx>29.967039</tx>
-				<ty>3.013774</ty>
-				<tz>-1.462909</tz>
+				<tx>9.050144</tx>
+				<ty>-0.543812</ty>
+				<tz>-1.037562</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.139089</rz>
+				<rz>0.128230</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -699,13 +699,13 @@
 			</item>
 			<!-- frame 38 -->
 			<item>
-				<tx>28.944221</tx>
-				<ty>3.000362</ty>
-				<tz>-1.475303</tz>
+				<tx>9.049659</tx>
+				<ty>-0.529954</ty>
+				<tz>-1.038053</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.125227</rz>
-				<state>0</state>
+				<rz>0.127957</rz>
+				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -717,12 +717,12 @@
 			</item>
 			<!-- frame 39 -->
 			<item>
-				<tx>27.921403</tx>
-				<ty>2.986949</ty>
-				<tz>-1.487697</tz>
+				<tx>9.038825</tx>
+				<ty>-0.555924</ty>
+				<tz>-1.036846</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.118565</rz>
+				<rz>0.127280</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -735,13 +735,13 @@
 			</item>
 			<!-- frame 40 -->
 			<item>
-				<tx>26.799332</tx>
-				<ty>3.024616</ty>
-				<tz>-1.455242</tz>
+				<tx>9.033808</tx>
+				<ty>-0.538218</ty>
+				<tz>-1.037393</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.131376</rz>
-				<state>0</state>
+				<rz>0.127701</rz>
+				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -753,12 +753,12 @@
 			</item>
 			<!-- frame 41 -->
 			<item>
-				<tx>25.677260</tx>
-				<ty>3.062283</ty>
-				<tz>-1.422787</tz>
+				<tx>9.032473</tx>
+				<ty>-0.561570</ty>
+				<tz>-1.036743</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.135859</rz>
+				<rz>0.127808</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -771,12 +771,12 @@
 			</item>
 			<!-- frame 42 -->
 			<item>
-				<tx>24.570777</tx>
-				<ty>3.066316</ty>
-				<tz>-1.402902</tz>
+				<tx>9.027742</tx>
+				<ty>-0.536870</ty>
+				<tz>-1.034018</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.117409</rz>
+				<rz>0.128233</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -789,12 +789,12 @@
 			</item>
 			<!-- frame 43 -->
 			<item>
-				<tx>23.501164</tx>
-				<ty>3.037399</ty>
-				<tz>-1.346550</tz>
+				<tx>9.053962</tx>
+				<ty>-0.536727</ty>
+				<tz>-1.028598</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.121596</rz>
+				<rz>0.128118</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -807,12 +807,12 @@
 			</item>
 			<!-- frame 44 -->
 			<item>
-				<tx>22.539798</tx>
-				<ty>2.692512</ty>
-				<tz>-1.307196</tz>
+				<tx>9.017486</tx>
+				<ty>-0.556148</ty>
+				<tz>-1.036596</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.129428</rz>
+				<rz>0.127690</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -825,12 +825,12 @@
 			</item>
 			<!-- frame 45 -->
 			<item>
-				<tx>21.247946</tx>
-				<ty>3.024966</ty>
-				<tz>-1.284928</tz>
+				<tx>9.029289</tx>
+				<ty>-0.547272</ty>
+				<tz>-1.036727</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.133105</rz>
+				<rz>0.126852</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -843,12 +843,12 @@
 			</item>
 			<!-- frame 46 -->
 			<item>
-				<tx>20.135453</tx>
-				<ty>3.082630</ty>
-				<tz>-1.252103</tz>
+				<tx>9.044470</tx>
+				<ty>-0.542933</ty>
+				<tz>-1.037968</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.139678</rz>
+				<rz>0.126329</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -861,12 +861,12 @@
 			</item>
 			<!-- frame 47 -->
 			<item>
-				<tx>19.030419</tx>
-				<ty>3.070821</ty>
-				<tz>-1.233156</tz>
+				<tx>9.047087</tx>
+				<ty>-0.537550</ty>
+				<tz>-1.037134</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.134689</rz>
+				<rz>0.127305</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -879,12 +879,12 @@
 			</item>
 			<!-- frame 48 -->
 			<item>
-				<tx>17.852617</tx>
-				<ty>3.093455</ty>
-				<tz>-1.246424</tz>
+				<tx>9.031105</tx>
+				<ty>-0.545968</ty>
+				<tz>-1.036553</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.137419</rz>
+				<rz>0.127810</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -897,13 +897,13 @@
 			</item>
 			<!-- frame 49 -->
 			<item>
-				<tx>16.813563</tx>
-				<ty>2.653408</ty>
-				<tz>-1.245105</tz>
+				<tx>9.038210</tx>
+				<ty>-0.524791</ty>
+				<tz>-1.037355</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.139714</rz>
-				<state>0</state>
+				<rz>0.128086</rz>
+				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -915,12 +915,12 @@
 			</item>
 			<!-- frame 50 -->
 			<item>
-				<tx>15.563039</tx>
-				<ty>3.120361</ty>
-				<tz>-1.224343</tz>
+				<tx>9.029003</tx>
+				<ty>-0.538026</ty>
+				<tz>-1.037532</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.135574</rz>
+				<rz>0.127690</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -933,12 +933,12 @@
 			</item>
 			<!-- frame 51 -->
 			<item>
-				<tx>14.404745</tx>
-				<ty>3.145739</ty>
-				<tz>-1.168834</tz>
+				<tx>9.033088</tx>
+				<ty>-0.533797</ty>
+				<tz>-1.037418</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.134971</rz>
+				<rz>0.127407</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -951,12 +951,12 @@
 			</item>
 			<!-- frame 52 -->
 			<item>
-				<tx>13.233812</tx>
-				<ty>3.205201</ty>
-				<tz>-1.052408</tz>
+				<tx>9.044610</tx>
+				<ty>-0.536106</ty>
+				<tz>-1.037582</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.135574</rz>
+				<rz>0.126749</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -969,12 +969,12 @@
 			</item>
 			<!-- frame 53 -->
 			<item>
-				<tx>12.045722</tx>
-				<ty>3.243122</ty>
-				<tz>-0.989340</tz>
+				<tx>9.062732</tx>
+				<ty>-0.543273</ty>
+				<tz>-1.038439</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.137520</rz>
+				<rz>0.127255</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -987,12 +987,12 @@
 			</item>
 			<!-- frame 54 -->
 			<item>
-				<tx>10.952825</tx>
-				<ty>3.278123</ty>
-				<tz>-0.963937</tz>
+				<tx>9.057941</tx>
+				<ty>-0.521138</ty>
+				<tz>-1.038398</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.133372</rz>
+				<rz>0.127718</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1005,12 +1005,12 @@
 			</item>
 			<!-- frame 55 -->
 			<item>
-				<tx>9.694117</tx>
-				<ty>3.292320</ty>
-				<tz>-1.010150</tz>
+				<tx>9.084685</tx>
+				<ty>-0.516316</ty>
+				<tz>-1.039962</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.132717</rz>
+				<rz>0.130568</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1023,12 +1023,12 @@
 			</item>
 			<!-- frame 56 -->
 			<item>
-				<tx>8.522812</tx>
-				<ty>3.318632</ty>
-				<tz>-1.048613</tz>
+				<tx>9.090208</tx>
+				<ty>-0.539104</ty>
+				<tz>-1.041804</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.119681</rz>
+				<rz>0.130503</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1041,12 +1041,12 @@
 			</item>
 			<!-- frame 57 -->
 			<item>
-				<tx>7.343363</tx>
-				<ty>3.350785</ty>
-				<tz>-0.999870</tz>
+				<tx>9.130143</tx>
+				<ty>-0.515240</ty>
+				<tz>-1.043913</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.138094</rz>
+				<rz>0.129472</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1059,12 +1059,12 @@
 			</item>
 			<!-- frame 58 -->
 			<item>
-				<tx>6.151718</tx>
-				<ty>3.364214</ty>
-				<tz>-0.959318</tz>
+				<tx>9.154656</tx>
+				<ty>-0.519845</ty>
+				<tz>-1.045527</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.119637</rz>
+				<rz>0.129730</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1077,12 +1077,12 @@
 			</item>
 			<!-- frame 59 -->
 			<item>
-				<tx>4.969385</tx>
-				<ty>3.384048</ty>
-				<tz>-0.942702</tz>
+				<tx>9.178268</tx>
+				<ty>-0.498637</ty>
+				<tz>-1.044000</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.110021</rz>
+				<rz>0.129467</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1095,12 +1095,12 @@
 			</item>
 			<!-- frame 60 -->
 			<item>
-				<tx>3.768020</tx>
-				<ty>3.419978</ty>
-				<tz>-0.906517</tz>
+				<tx>9.214316</tx>
+				<ty>-0.503830</ty>
+				<tz>-1.047405</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.121889</rz>
+				<rz>0.130162</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1113,13 +1113,13 @@
 			</item>
 			<!-- frame 61 -->
 			<item>
-				<tx>2.439681</tx>
-				<ty>3.432594</ty>
-				<tz>-0.848849</tz>
+				<tx>9.248507</tx>
+				<ty>-0.489921</ty>
+				<tz>-1.049813</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.141508</rz>
-				<state>0</state>
+				<rz>0.130666</rz>
+				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
 				<truncation>-1</truncation>
@@ -1131,12 +1131,12 @@
 			</item>
 			<!-- frame 62 -->
 			<item>
-				<tx>1.111343</tx>
-				<ty>3.445209</ty>
-				<tz>-0.791181</tz>
+				<tx>9.282967</tx>
+				<ty>-0.490710</ty>
+				<tz>-1.050927</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.139796</rz>
+				<rz>0.129865</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1149,12 +1149,12 @@
 			</item>
 			<!-- frame 63 -->
 			<item>
-				<tx>-0.039502</tx>
-				<ty>3.481731</ty>
-				<tz>-0.792172</tz>
+				<tx>9.330336</tx>
+				<ty>-0.489914</ty>
+				<tz>-1.043773</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.128746</rz>
+				<rz>0.129875</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1167,12 +1167,12 @@
 			</item>
 			<!-- frame 64 -->
 			<item>
-				<tx>-2.285914</tx>
-				<ty>3.442477</ty>
-				<tz>-0.777979</tz>
+				<tx>9.375910</tx>
+				<ty>-0.482909</ty>
+				<tz>-1.049139</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.137903</rz>
+				<rz>0.129826</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1185,12 +1185,12 @@
 			</item>
 			<!-- frame 65 -->
 			<item>
-				<tx>-3.489049</tx>
-				<ty>3.484690</ty>
-				<tz>-0.728062</tz>
+				<tx>9.433499</tx>
+				<ty>-0.479723</ty>
+				<tz>-1.052221</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.127844</rz>
+				<rz>0.128925</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1203,12 +1203,12 @@
 			</item>
 			<!-- frame 66 -->
 			<item>
-				<tx>-4.679134</tx>
-				<ty>3.487796</ty>
-				<tz>-0.688114</tz>
+				<tx>9.503450</tx>
+				<ty>-0.465728</ty>
+				<tz>-1.046826</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.118499</rz>
+				<rz>0.129323</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1221,12 +1221,12 @@
 			</item>
 			<!-- frame 67 -->
 			<item>
-				<tx>-5.891113</tx>
-				<ty>3.500917</ty>
-				<tz>-0.679802</tz>
+				<tx>9.584216</tx>
+				<ty>-0.468427</ty>
+				<tz>-1.048581</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.127490</rz>
+				<rz>0.129771</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1239,12 +1239,12 @@
 			</item>
 			<!-- frame 68 -->
 			<item>
-				<tx>-7.115973</tx>
-				<ty>3.475974</ty>
-				<tz>-0.710555</tz>
+				<tx>9.698506</tx>
+				<ty>-0.460136</ty>
+				<tz>-1.066829</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.132223</rz>
+				<rz>0.130662</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1257,12 +1257,12 @@
 			</item>
 			<!-- frame 69 -->
 			<item>
-				<tx>-8.313904</tx>
-				<ty>3.487770</ty>
-				<tz>-0.739865</tz>
+				<tx>9.825944</tx>
+				<ty>-0.470167</ty>
+				<tz>-1.069893</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.118163</rz>
+				<rz>0.127620</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1275,12 +1275,12 @@
 			</item>
 			<!-- frame 70 -->
 			<item>
-				<tx>-9.512771</tx>
-				<ty>3.501613</ty>
-				<tz>-0.755728</tz>
+				<tx>9.940503</tx>
+				<ty>-0.454714</ty>
+				<tz>-1.074174</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.127680</rz>
+				<rz>0.125893</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1293,12 +1293,12 @@
 			</item>
 			<!-- frame 71 -->
 			<item>
-				<tx>-10.749112</tx>
-				<ty>3.534163</ty>
-				<tz>-0.765500</tz>
+				<tx>10.069289</tx>
+				<ty>-0.435255</ty>
+				<tz>-1.078507</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.140071</rz>
+				<rz>0.129792</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1311,12 +1311,12 @@
 			</item>
 			<!-- frame 72 -->
 			<item>
-				<tx>-12.000132</tx>
-				<ty>3.517720</ty>
-				<tz>-0.749348</tz>
+				<tx>10.228091</tx>
+				<ty>-0.439070</ty>
+				<tz>-1.084894</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.134080</rz>
+				<rz>0.118202</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1329,12 +1329,12 @@
 			</item>
 			<!-- frame 73 -->
 			<item>
-				<tx>-13.259006</tx>
-				<ty>3.514209</ty>
-				<tz>-0.718443</tz>
+				<tx>10.428431</tx>
+				<ty>-0.419543</ty>
+				<tz>-1.091985</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.139052</rz>
+				<rz>0.110889</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1347,12 +1347,12 @@
 			</item>
 			<!-- frame 74 -->
 			<item>
-				<tx>-14.511400</tx>
-				<ty>3.567006</ty>
-				<tz>-0.668674</tz>
+				<tx>10.647182</tx>
+				<ty>-0.400902</ty>
+				<tz>-1.099465</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.133515</rz>
+				<rz>0.112798</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1365,12 +1365,12 @@
 			</item>
 			<!-- frame 75 -->
 			<item>
-				<tx>-15.757852</tx>
-				<ty>3.567901</ty>
-				<tz>-0.622004</tz>
+				<tx>10.871085</tx>
+				<ty>-0.355966</ty>
+				<tz>-1.107374</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.134673</rz>
+				<rz>0.129700</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1383,12 +1383,12 @@
 			</item>
 			<!-- frame 76 -->
 			<item>
-				<tx>-16.987096</tx>
-				<ty>3.619169</ty>
-				<tz>-0.635064</tz>
+				<tx>11.123306</tx>
+				<ty>-0.341339</ty>
+				<tz>-1.104771</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.126703</rz>
+				<rz>0.125147</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1401,12 +1401,12 @@
 			</item>
 			<!-- frame 77 -->
 			<item>
-				<tx>-18.234468</tx>
-				<ty>3.619082</ty>
-				<tz>-0.726394</tz>
+				<tx>11.390749</tx>
+				<ty>-0.319153</ty>
+				<tz>-1.120452</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.122980</rz>
+				<rz>0.118705</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1419,12 +1419,12 @@
 			</item>
 			<!-- frame 78 -->
 			<item>
-				<tx>-19.496040</tx>
-				<ty>3.576478</ty>
-				<tz>-0.835937</tz>
+				<tx>11.670607</tx>
+				<ty>-0.275769</ty>
+				<tz>-1.131792</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>-3.141217</rz>
+				<rz>0.115377</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1437,12 +1437,12 @@
 			</item>
 			<!-- frame 79 -->
 			<item>
-				<tx>-20.684839</tx>
-				<ty>3.557063</ty>
-				<tz>-0.891949</tz>
+				<tx>11.967929</tx>
+				<ty>-0.233638</ty>
+				<tz>-1.145350</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.140469</rz>
+				<rz>0.119945</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1455,12 +1455,12 @@
 			</item>
 			<!-- frame 80 -->
 			<item>
-				<tx>-21.958058</tx>
-				<ty>3.580684</ty>
-				<tz>-0.899797</tz>
+				<tx>12.316414</tx>
+				<ty>-0.179760</ty>
+				<tz>-1.162471</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.122271</rz>
+				<rz>0.135885</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1473,12 +1473,12 @@
 			</item>
 			<!-- frame 81 -->
 			<item>
-				<tx>-23.182779</tx>
-				<ty>3.566353</ty>
-				<tz>-0.872529</tz>
+				<tx>12.662512</tx>
+				<ty>-0.133588</ty>
+				<tz>-1.182803</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.116923</rz>
+				<rz>0.144251</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
@@ -1491,12 +1491,642 @@
 			</item>
 			<!-- frame 82 -->
 			<item>
-				<tx>-24.399155</tx>
-				<ty>3.628797</ty>
-				<tz>-0.742287</tz>
+				<tx>13.022306</tx>
+				<ty>-0.087066</ty>
+				<tz>-1.204842</tz>
 				<rx>0.000000</rx>
 				<ry>-0.000000</ry>
-				<rz>3.133178</rz>
+				<rz>0.132962</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 83 -->
+			<item>
+				<tx>13.357605</tx>
+				<ty>-0.069978</ty>
+				<tz>-1.221432</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.117054</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 84 -->
+			<item>
+				<tx>13.706120</tx>
+				<ty>-0.069328</ty>
+				<tz>-1.234803</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.116155</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 85 -->
+			<item>
+				<tx>14.074981</tx>
+				<ty>-0.001936</ty>
+				<tz>-1.245149</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.124137</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 86 -->
+			<item>
+				<tx>14.445780</tx>
+				<ty>0.030596</ty>
+				<tz>-1.258590</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.139213</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 87 -->
+			<item>
+				<tx>14.873659</tx>
+				<ty>0.115132</ty>
+				<tz>-1.274707</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.149520</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 88 -->
+			<item>
+				<tx>15.298377</tx>
+				<ty>0.155593</ty>
+				<tz>-1.291228</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.138800</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 89 -->
+			<item>
+				<tx>15.742958</tx>
+				<ty>0.166916</ty>
+				<tz>-1.310930</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.128677</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 90 -->
+			<item>
+				<tx>16.220145</tx>
+				<ty>0.221742</ty>
+				<tz>-1.330823</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.119163</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 91 -->
+			<item>
+				<tx>16.711946</tx>
+				<ty>0.280094</ty>
+				<tz>-1.350899</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.119155</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 92 -->
+			<item>
+				<tx>17.191706</tx>
+				<ty>0.336795</ty>
+				<tz>-1.370792</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.118993</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 93 -->
+			<item>
+				<tx>17.647741</tx>
+				<ty>0.456487</ty>
+				<tz>-1.388057</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.132992</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 94 -->
+			<item>
+				<tx>18.159474</tx>
+				<ty>0.516346</ty>
+				<tz>-1.412746</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.136759</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 95 -->
+			<item>
+				<tx>18.659007</tx>
+				<ty>0.540760</ty>
+				<tz>-1.438192</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.141559</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 96 -->
+			<item>
+				<tx>19.214106</tx>
+				<ty>0.622409</ty>
+				<tz>-1.463987</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.144970</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 97 -->
+			<item>
+				<tx>19.780500</tx>
+				<ty>0.593982</ty>
+				<tz>-1.492782</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133098</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 98 -->
+			<item>
+				<tx>20.318891</tx>
+				<ty>0.692146</ty>
+				<tz>-1.520502</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.126367</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 99 -->
+			<item>
+				<tx>20.883966</tx>
+				<ty>0.730284</ty>
+				<tz>-1.546250</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.125267</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 100 -->
+			<item>
+				<tx>21.475899</tx>
+				<ty>0.796288</ty>
+				<tz>-1.573314</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133879</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 101 -->
+			<item>
+				<tx>22.110221</tx>
+				<ty>0.831327</ty>
+				<tz>-1.603430</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.149911</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 102 -->
+			<item>
+				<tx>22.709496</tx>
+				<ty>0.942235</ty>
+				<tz>-1.631714</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.155562</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 103 -->
+			<item>
+				<tx>23.332429</tx>
+				<ty>0.986917</ty>
+				<tz>-1.660720</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.150242</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 104 -->
+			<item>
+				<tx>23.968234</tx>
+				<ty>1.138952</ty>
+				<tz>-1.692306</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.145404</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 105 -->
+			<item>
+				<tx>24.636849</tx>
+				<ty>1.143836</ty>
+				<tz>-1.723873</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.126623</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 106 -->
+			<item>
+				<tx>25.246367</tx>
+				<ty>1.256165</ty>
+				<tz>-1.749483</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.134628</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 107 -->
+			<item>
+				<tx>25.855884</tx>
+				<ty>1.368494</ty>
+				<tz>-1.775094</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.150511</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 108 -->
+			<item>
+				<tx>26.518609</tx>
+				<ty>1.286500</ty>
+				<tz>-1.807061</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.162529</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 109 -->
+			<item>
+				<tx>27.214735</tx>
+				<ty>1.499131</ty>
+				<tz>-1.841360</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.149967</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 110 -->
+			<item>
+				<tx>27.306367</tx>
+				<ty>1.993193</ty>
+				<tz>-1.850615</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133663</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 111 -->
+			<item>
+				<tx>28.203592</tx>
+				<ty>2.387430</ty>
+				<tz>-1.896953</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133496</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 112 -->
+			<item>
+				<tx>28.203872</tx>
+				<ty>2.379750</ty>
+				<tz>-1.897447</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133129</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 113 -->
+			<item>
+				<tx>28.990889</tx>
+				<ty>2.541921</ty>
+				<tz>-1.936047</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.133392</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 114 -->
+			<item>
+				<tx>28.356663</tx>
+				<ty>2.441218</ty>
+				<tz>-1.905419</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.134610</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 115 -->
+			<item>
+				<tx>28.984036</tx>
+				<ty>2.622343</ty>
+				<tz>-1.936472</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.139372</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 116 -->
+			<item>
+				<tx>28.190166</tx>
+				<ty>2.540592</ty>
+				<tz>-1.898296</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.138613</rz>
+				<state>1</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 117 -->
+			<item>
+				<tx>28.551685</tx>
+				<ty>2.472405</ty>
+				<tz>-1.914279</tz>
+				<rx>0.000000</rx>
+				<ry>-0.000000</ry>
+				<rz>0.138436</rz>
 				<state>1</state>
 				<occlusion>-1</occlusion>
 				<occlusion_kf>-1</occlusion_kf>
