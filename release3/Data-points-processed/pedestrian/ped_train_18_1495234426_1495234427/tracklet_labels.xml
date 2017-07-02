@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="9">
+<tracklets class_id="0" tracking_level="0" version="0">
+	<count>1</count>
+	<item_version>1</item_version> 
+	<item class_id="1" tracking_level="0" version="1">
+		<objectType>Pedestrian</objectType>
+		<h>1.708000</h>
+		<w>0.800000</w>
+		<l>0.800000</l>
+		<first_frame>0</first_frame>
+		<poses class_id="2" tracking_level="0" version="0">
+			<count>6</count>
+			<item_version>2</item_version>
+			<!-- frame 0 -->
+			<item class_id="3" tracking_level="0" version="2">
+				<tx>9.059829</tx>
+				<ty>-3.208371</ty>
+				<tz>-0.703745</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.949375</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 1 -->
+			<item>
+				<tx>9.089301</tx>
+				<ty>-3.191115</ty>
+				<tz>-0.702850</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.949528</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 2 -->
+			<item>
+				<tx>9.159733</tx>
+				<ty>-3.145989</ty>
+				<tz>-0.694390</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.948933</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 3 -->
+			<item>
+				<tx>9.206389</tx>
+				<ty>-3.108038</ty>
+				<tz>-0.702188</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.944376</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 4 -->
+			<item>
+				<tx>9.260783</tx>
+				<ty>-3.068921</ty>
+				<tz>-0.711444</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.937398</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+			<!-- frame 5 -->
+			<item>
+				<tx>9.289712</tx>
+				<ty>-3.042471</ty>
+				<tz>-0.701213</tz>
+				<rx>0.000000</rx>
+				<ry>0.000000</ry>
+				<rz>1.934471</rz>
+				<state>0</state>
+				<occlusion>-1</occlusion>
+				<occlusion_kf>-1</occlusion_kf>
+				<truncation>-1</truncation>
+				<amt_occlusion>0.0</amt_occlusion>
+				<amt_occlusion_kf>-1</amt_occlusion_kf>
+				<amt_border_l>0.0</amt_border_l>
+				<amt_border_r>0.0</amt_border_r>
+				<amt_border_kf>-1</amt_border_kf>
+			</item>
+		</poses>
+		<finished>1</finished>
+	</item>
+</tracklets>
+</boost_serialization> 
